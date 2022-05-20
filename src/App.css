@@ -65,9 +65,9 @@ h1, h2{
  text-shadow: 1px 1px .5px black;
 }
 p{
- font-size: 15px;
- color: white;
- text-shadow: 1px 1px .5px black;
+ font-size: 18px;
+ color: black;
+ text-shadow: 1px 1px .5px white;
 }
 
 .container-history, 
