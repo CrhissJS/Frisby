@@ -44,7 +44,7 @@ const GetInfo = ({ info }) => {
                     <p>Ser una Empresa del Sector Solidario reconocida a nivel nacional por su calidad humana que propenda por mejorar en forma sostenible la calidad de vida de sus asociados, empleados y comunidad en general, ofreciendo servicios y beneficios de buena calidad y con responsabilidad social, que conlleven al cumplimiento de sus expectativas personales.</p>
                     
                     <h2>Vídeo "Frisby, la historia de una 'pizza voladora' que se convirtió en una gran cadena de pollo frito" </h2>
-                    <iframe width="460" height="215" src="https://www.youtube.com/embed/KAHfTakEYPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="460" height="215" src="https://www.youtube.com/embed/KAHfTakEYPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" allowfullscreen></iframe>
                 </div>
             </section>
         )
